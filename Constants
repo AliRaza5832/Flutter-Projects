@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const Color grayColor = Colors.grey;
+
+const Color yellowColor = Colors.yellow;
+
+// const Color greenColor = Colors.green;
+
+// const Color whiteColor = Colors.white;
+
+const Color greenColor = Colors.green;
+
+const Color whiteColor = Colors.white;
+
+//const headingTextstyle = TextStyle(fontSize: 60, color: grayColor);
+
+//const bodyTextStyle = TextStyle(fontSize: 20, color: yellowColor);
+
+// const headingTextstyle = TextStyle(fontSize: 70, color: greenColor);
+
+// const bodyTextStyle = TextStyle(fontSize: 40, color: yellowColor);
+
+const headingTextstyle = TextStyle(fontSize: 70, color: greenColor);
+
+const bodyTextStyle = TextStyle(fontSize: 40, color: whiteColor);
